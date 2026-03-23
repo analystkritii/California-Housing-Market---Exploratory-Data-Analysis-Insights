@@ -3,10 +3,15 @@
 
 *****Key Features******
 1->Data Preprocessing: Handled missing values in the total_bedrooms column using median imputation and ensured data types were optimized for analysis.
+
 2->Statistical Analysis: Conducted descriptive statistics to understand the distribution of variables like median_income, housing_median_age, and population.
+
 3->Geospatial Visualization: Created scatter plots using Latitude and Longitude to visualize the geographic distribution of house prices across California.
+
 4->Correlation Mapping: Utilized Seaborn Heatmaps to determine the relationship between features, identifying median_income as the strongest predictor of house value.
+
 5->Feature Engineering: Engineered new metrics such as rooms_per_household and population_per_household to gain deeper insights into neighborhood density and its impact on pricing.
+
 6->Outlier Detection: Used Boxplots to identify and analyze outliers in the dataset.
 
 *****Tech Stack*****
