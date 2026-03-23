@@ -1,5 +1,6 @@
 *****Project Overview******
 ->This project performs an in-depth Exploratory Data Analysis (EDA) on the California Housing dataset. The primary goal is to identify the key factors that influence housing prices across various districts in California. By leveraging Python's data science ecosystem, I have cleaned, transformed, and visualized the data to uncover hidden patterns and correlations.
+
 *****Key Features******
 1->Data Preprocessing: Handled missing values in the total_bedrooms column using median imputation and ensured data types were optimized for analysis.
 2->Statistical Analysis: Conducted descriptive statistics to understand the distribution of variables like median_income, housing_median_age, and population.
