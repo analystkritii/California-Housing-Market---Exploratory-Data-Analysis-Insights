@@ -1,0 +1,2 @@
+# California-Housing-Market---Exploratory-Data-Analysis-Insights
+In this project, I performed a comprehensive end-to-end analysis of the California housing dataset to identify the key factors influencing median house values. The workflow covers the entire data science pipeline, including rigorous data cleaning, feature engineering, and advanced visualizations to uncover deep spatial and economic insights
