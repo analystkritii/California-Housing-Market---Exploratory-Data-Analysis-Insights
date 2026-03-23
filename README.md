@@ -16,22 +16,36 @@
 
 *****Tech Stack*****
 1->Language: Python
+
 2->Libraries: * Pandas: For data manipulation and cleaning.
+
 3->NumPy: For numerical computations.
+
 4->Matplotlib & Seaborn: For static and interactive data visualizations.
+
 5->Environment: Google Colab / Jupyter Notebook
 
 ****Dataset Description******
 The dataset contains information from the 1990 California census. It includes 10 attributes:
+
 *longitude / latitude
+
 *housing_median_age
+
 *total_rooms / total_bedrooms
+
 *population
+
 *households
+
 *median_income
+
 *median_house_value
+
 *ocean_proximity
+
 *Insights Derived
+
 *Income Impact: There is a strong positive correlation between median income and house values.
 
 **Location Factor: Houses located "Near Ocean" or "Inland" show significant price variance, with coastal properties generally commanding higher prices.
